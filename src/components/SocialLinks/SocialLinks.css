@@ -1,0 +1,11 @@
+.social-links {
+    display: flex;
+    gap: 3rem;
+    margin-bottom: 2rem;
+    justify-content: center;
+    height: auto;
+}
+
+.icon-button {
+    font-size: 1.5rem;
+}
