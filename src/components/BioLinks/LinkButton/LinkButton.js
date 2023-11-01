@@ -1,11 +1,11 @@
 import React from 'react';
 
-function IconButton({ icon, link }) {
+function LinkButton({ image, text, link }) {
     return (
-        <a href={link} className="icon-button">
-            {/* Render the icon here */}
+        <a href={link} className="link-button">
+            {/* Render the favicon/image and text here */}
         </a>
     );
 }
 
-export default IconButton;
+export default LinkButton;
