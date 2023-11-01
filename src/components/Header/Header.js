@@ -1,5 +1,6 @@
 import React from 'react';
 import profilePic from '../../assets/images/cla-sei-profile.png';
+import './Header.css';
 
 
 const Header = () => {

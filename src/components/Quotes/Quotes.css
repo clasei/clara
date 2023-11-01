@@ -1,4 +1,6 @@
 .quotes {
+    justify-content: center;
+    height: auto;
     font-style: italic;
     font-size: 1.2rem;
     text-align: center;
