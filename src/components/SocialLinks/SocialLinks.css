@@ -1,0 +1,9 @@
+.social-links {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.icon-button {
+    font-size: 1.5rem;
+}
