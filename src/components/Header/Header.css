@@ -36,6 +36,11 @@ p {
 }
 
 @media screen and (max-width: 768px) {
+    
+    .header-container {
+        margin-top: 25px;
+    }
+    
     h1 {
         font-size: 1.8rem;
         padding-top: 0.7rem;
@@ -43,7 +48,7 @@ p {
     }
 
     p {
-        font-size: 1rem;
+        font-size: 1.1rem;
         letter-spacing: 3px;
         font-weight: 350;
         line-height: 25px;
