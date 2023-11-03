@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
     padding: 50px;
-    margin-bottom: 15px;
     background-color: #000;
     color: #fff;
     justify-content: center;
@@ -18,15 +18,17 @@
 }
 
 h1 {
-    font-size: 37px;
-    letter-spacing: 3px;
-    padding: 15px;
+    font-size: 2rem;
+    letter-spacing: 5px;
+    font-weight: 510;
+    padding-top: 15px;
     padding-bottom: 25px;
 }
 
 p {
-    font-size: 18px;
+    font-size: 1.1rem;
     letter-spacing: 3px;
     font-weight: 350;
-    line-height: 1px;
+    line-height: 25px;
+    margin-bottom: 5px;
 }
