@@ -22,8 +22,8 @@ h1 {
     font-size: 2rem;
     letter-spacing: 5px;
     font-weight: 510;
-    padding-top: 15px;
-    padding-bottom: 25px;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
 }
 
 p {
@@ -31,6 +31,23 @@ p {
     letter-spacing: 3px;
     font-weight: 350;
     line-height: 25px;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 0.1rem;
+    margin-bottom: 0.1rem;
+}
+
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 1.8rem;
+        padding-top: 0.7rem;
+        padding-bottom: 0.7rem;
+    }
+
+    p {
+        font-size: 1rem;
+        letter-spacing: 3px;
+        font-weight: 350;
+        line-height: 25px;
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
 }

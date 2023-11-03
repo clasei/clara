@@ -1,9 +1,10 @@
 .social-links {
     display: flex;
     gap: 3rem;
-    margin: 1rem auto;
     justify-content: center;
     height: auto;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 }
 
 .icon-svg:active {
@@ -14,4 +15,10 @@
 .icon-svg:hover {
     transform: scale(1.2);
     transition: transform 0.4s ease-in-out;
+}
+
+@media screen and (max-width: 768px) {
+    .social-links {
+        gap: 2rem;
+    }
 }
