@@ -1,5 +1,12 @@
 .quotes {
+    display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+    height: auto;
+    max-width: 50%;
+    border: 1px solid #ccc;
+    margin: 15px auto;
     height: auto;
     font-style: italic;
     font-size: 1.2rem;
