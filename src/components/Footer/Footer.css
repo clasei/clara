@@ -36,3 +36,10 @@ footer span {
     margin-left: 1px;
     margin-right: 1px;
 }
+
+
+@media screen and (max-width: 768px) {
+    #footer {
+        font-size: 0.7rem;
+    }
+}
