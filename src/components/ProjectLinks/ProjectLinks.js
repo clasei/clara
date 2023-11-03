@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { } from 'react';
 import './ProjectLinks.css';
 import projectLogo from '../../assets/logos/lego-brick.svg';
 
