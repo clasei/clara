@@ -9,12 +9,12 @@ import Hobbes from '../../assets/images/cla-sei-hobbes.png';
 const projects = [
     {
         name: "Do Bees Dream",
-        link: "https://enlace-a-otro-proyecto.com",
+        link: "https://dobeesdream.com",
         image: dbdLogo 
     },
     {
         name: "GitHub → README",
-        link: "https://enlace-a-otro-proyecto.com",
+        link: "https://github.com/clasei",
         image: Hobbes 
     },
     {
