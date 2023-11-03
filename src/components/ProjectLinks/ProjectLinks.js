@@ -2,18 +2,25 @@ import React, { } from 'react';
 import './ProjectLinks.css';
 import ProjectButtonLink from './ProjectButtonLink';
 import projectLogo from '../../assets/logos/lego-brick.svg';
+import dbdLogo from '../../assets/logos/do-bees-dream-logo.png';
+import Hobbes from '../../assets/images/cla-sei-hobbes.png';
 
 
 const projects = [
     {
+        name: "Do Bees Dream",
+        link: "https://enlace-a-otro-proyecto.com",
+        image: dbdLogo 
+    },
+    {
+        name: "GitHub → README",
+        link: "https://enlace-a-otro-proyecto.com",
+        image: Hobbes 
+    },
+    {
         name: "twinkleCircle",
         link: "https://clasei.github.io/twinkle-circle/",
         image: projectLogo
-    },
-    {
-        name: "OtroProyecto",
-        link: "https://enlace-a-otro-proyecto.com",
-        image: projectLogo 
     },
 
 ];
