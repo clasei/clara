@@ -1,28 +1,38 @@
-import React, { useState } from 'react';
+import React, { } from 'react';
 import './ProjectLinks.css';
+import ProjectButtonLink from './ProjectButtonLink';
 import projectLogo from '../../assets/logos/lego-brick.svg';
+import dbdLogo from '../../assets/logos/do-bees-dream-logo.png';
+import Hobbes from '../../assets/images/cla-sei-hobbes.png';
 
-const ProjectLinks = ({ project }) => {
-    const [isOpen, setIsOpen] = useState(false);
 
-    const toggleOpen = () => {
-        setIsOpen(!isOpen);
-    }
+const projects = [
+    {
+        name: "Do Bees Dream",
+        link: "https://dobeesdream.com",
+        image: dbdLogo 
+    },
+    {
+        name: "GitHub → README",
+        link: "https://github.com/clasei",
+        image: Hobbes 
+    },
+    {
+        name: "twinkleCircle",
+        link: "https://clasei.github.io/twinkle-circle/",
+        image: projectLogo
+    },
 
+];
+
+const ProjectLinks = () => {
     return (
-        <div className="project-card" onClick={toggleOpen}>
-            <div className="project-header">
-                <img src={projectLogo} alt="Project logo" className="project-logo"/>
-                <h3>twinkleCircle</h3>
-            </div>
-            {isOpen && (
-                <div className="project-details">
-                    <p>{project.description}</p>
-                    <a href={project.link} target="_blank" rel="noopener noreferrer">Ver proyecto</a>
-                </div>
-            )}
+        <div>
+            {projects.map(project => (
+                <ProjectButtonLink key={project.name} project={project} />
+            ))}
         </div>
-    )
+    );
 }
 
 export default ProjectLinks;

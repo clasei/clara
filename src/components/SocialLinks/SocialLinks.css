@@ -1,11 +1,23 @@
 .social-links {
     display: flex;
     gap: 3rem;
-    margin-bottom: 2rem;
     justify-content: center;
     height: auto;
+    padding-bottom: 2.5rem;
 }
 
-.icon-button {
-    font-size: 1.5rem;
+.icon-svg:active {
+    transform: scale(1.2);
+    transition: transform 0.4s ease-in-out;
+}
+
+.icon-svg:hover {
+    transform: scale(1.2);
+    transition: transform 0.4s ease-in-out;
+}
+
+@media screen and (max-width: 768px) {
+    .social-links {
+        gap: 2rem;
+    }
 }

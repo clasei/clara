@@ -10,10 +10,17 @@ const emailPath = "M3 3.25C1.48122 3.25 0.25 4.48121 0.25 6V24.4C0.25 25.9188 1.
 function SocialLinks() {
     return (
         <div class="social-links">
-            <Icon path={githubPath} fillColor="white" />            
-            <Icon path={linkedinPath} fillColor="white" />
-            <Icon path={xPath} fillColor="white" />
-            <Icon path={emailPath} fillColor="white" />
+            <a href="https://github.com/clasei" target="_blank" rel="noopener noreferrer">
+                <Icon path={githubPath} fillColor="white" /> 
+            </a> 
+            <a href="https://linkedin.com/in/claraseijo" target="_blank" rel="noopener noreferrer">      
+                <Icon path={linkedinPath} fillColor="white" />
+            </a> 
+            <a href="https://twitter.com/claraseijo" target="_blank" rel="noopener noreferrer">  
+                <Icon path={xPath} fillColor="white" />
+            </a> 
+            <a href="mailto:hola@claraseijo.com">
+                <Icon path={emailPath} fillColor="white" /></a>
         </div>
     );
 }
