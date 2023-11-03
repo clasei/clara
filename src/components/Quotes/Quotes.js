@@ -4,7 +4,7 @@ import './Quotes.css';
 function Quotes() {
     return (
         <div className="quotes">
-            <p>build, don't talk</p>
+            <p>[ build, don't talk ]</p>
         </div>
     );
 }

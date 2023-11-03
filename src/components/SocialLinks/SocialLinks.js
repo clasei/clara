@@ -20,8 +20,7 @@ function SocialLinks() {
                 <Icon path={xPath} fillColor="white" />
             </a> 
             <a href="mailto:hola@claraseijo.com">
-                <Icon path={emailPath} fillColor="white" />
-            </a>
+                <Icon path={emailPath} fillColor="white" /></a>
         </div>
     );
 }
