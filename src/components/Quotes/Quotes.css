@@ -5,7 +5,7 @@
     align-items: center;
     height: auto;
     max-width: 50%;
-    margin: 5rem auto;
+    margin: 4rem auto;
     height: auto;
     text-align: center;
 }
@@ -13,6 +13,6 @@
 
 @media screen and (max-width: 768px) {
     .quotes {
-        margin: 4rem auto;
+        margin: 3.5rem auto;
     }
 }
