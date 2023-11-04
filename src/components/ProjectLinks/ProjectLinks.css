@@ -8,6 +8,7 @@
     height: auto;
     width: 50%;
     border: 1px solid #ccc;
+    color: whitesmoke;;
     margin: 0.5rem auto;
     padding-left: 10px;
     border-radius: 10px;
@@ -15,9 +16,8 @@
     cursor: pointer;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
     font-family: 'Roboto Mono', 'Courier New', monospace;
-    font-weight: 300;
-    font-size: 0.9rem;
-    letter-spacing: 2px;
+    font-size: 0.7rem;
+    letter-spacing: 1.5px;
 }
 
 .project-card:hover {
@@ -40,7 +40,7 @@
 }
 
 .project-logo {
-    padding: 1px;
+    margin: 1px;
     width: 45px;
     height: 45px;
     border-radius: 50%;
