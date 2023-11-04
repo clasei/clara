@@ -41,5 +41,6 @@ footer span {
 @media screen and (max-width: 900px) {
     #footer {
         font-size: 0.65rem;
+        line-height: 15px;
     }
 }
