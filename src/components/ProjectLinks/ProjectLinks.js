@@ -18,15 +18,21 @@ const projects = [
         image: Hobbes 
     },
     {
+        name: "twinkleCircle",
+        link: "https://clasei.github.io/twinkle-circle/",
+        image: projectLogo
+    },
+    {
         name: "spaceTime",
         link: "https://clasei.github.io/space-time/",
         image: projectLogo
     },
     {
-        name: "twinkleCircle",
-        link: "https://clasei.github.io/twinkle-circle/",
+        name: "quantumCookies",
+        link: "https://clasei.github.io/quantum-cookies/",
         image: projectLogo
     },
+    
 ];
 
 const ProjectLinks = () => {
