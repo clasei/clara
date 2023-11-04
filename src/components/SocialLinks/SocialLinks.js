@@ -19,7 +19,7 @@ function SocialLinks() {
             <a href="https://linkedin.com/in/claraseijo" target="_blank" rel="noopener noreferrer">      
                 <Icon path={linkedinPath} fillColor="white" />
             </a> 
-            <a href="mailto:hey@claraseijo.com">
+            <a href="mailto:clara@dobeesdream.com">
                 <Icon path={emailPath} fillColor="white" /></a>
         </div>
     );
