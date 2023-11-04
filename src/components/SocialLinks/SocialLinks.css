@@ -20,6 +20,6 @@
 @media screen and (max-width: 768px) {
     .social-links {
         gap: 2rem;
-        margin-top: 0rem;
+        margin-top: 0.1rem;
     }
 }
