@@ -13,16 +13,20 @@ const projects = [
         image: dbdLogo 
     },
     {
-        name: "GitHub → README",
+        name: "GitHub → code",
         link: "https://github.com/clasei",
         image: Hobbes 
+    },
+    {
+        name: "spaceTime",
+        link: "https://clasei.github.io/space-time/",
+        image: projectLogo
     },
     {
         name: "twinkleCircle",
         link: "https://clasei.github.io/twinkle-circle/",
         image: projectLogo
     },
-
 ];
 
 const ProjectLinks = () => {
