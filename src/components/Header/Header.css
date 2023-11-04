@@ -15,15 +15,15 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    margin-bottom: 15px;
+    margin-bottom: 1rem;
 }
 
 h1 {
     font-size: 2rem;
     letter-spacing: 5px;
     font-weight: 510;
-    padding-top: 0.7rem;
-    padding-bottom: 0.7rem;
+    padding-top: 0rem;
+    padding-bottom: 0.5rem;
 }
 
 p {

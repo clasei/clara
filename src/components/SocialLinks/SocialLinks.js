@@ -13,11 +13,11 @@ function SocialLinks() {
             <a href="https://github.com/clasei" target="_blank" rel="noopener noreferrer">
                 <Icon path={githubPath} fillColor="white" /> 
             </a> 
-            <a href="https://linkedin.com/in/claraseijo" target="_blank" rel="noopener noreferrer">      
-                <Icon path={linkedinPath} fillColor="white" />
-            </a> 
             <a href="https://twitter.com/claraseijo" target="_blank" rel="noopener noreferrer">  
                 <Icon path={xPath} fillColor="white" />
+            </a> 
+            <a href="https://linkedin.com/in/claraseijo" target="_blank" rel="noopener noreferrer">      
+                <Icon path={linkedinPath} fillColor="white" />
             </a> 
             <a href="mailto:hola@claraseijo.com">
                 <Icon path={emailPath} fillColor="white" /></a>

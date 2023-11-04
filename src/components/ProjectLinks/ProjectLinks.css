@@ -1,3 +1,4 @@
+
 .project-card {
     display: flex;
     flex-direction: column;
@@ -7,14 +8,15 @@
     height: auto;
     width: 50%;
     border: 1px solid #ccc;
-    margin: 1.5rem auto;
+    margin: 0.5rem auto;
     padding-left: 10px;
     border-radius: 10px;
     transition: all 0.3s;
     cursor: pointer;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-    font-family: 'Courier New', monospace, 'Roboto Mono';
-    font-size: 1rem;
+    font-family: 'Roboto Mono', 'Courier New', monospace;
+    font-size: 0.9rem;
+    letter-spacing: 2px;
 }
 
 .project-card:hover {
@@ -41,7 +43,8 @@
     width: 45px;
     height: 45px;
     border-radius: 50%;
-    margin-right: 15px;
+    margin-right: 25px;
+    margin-left: 10px;
     background-color: white;
     flex-shrink: 0;
 }
