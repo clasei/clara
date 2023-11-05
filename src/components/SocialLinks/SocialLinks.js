@@ -9,7 +9,7 @@ const emailPath = "M3 3.25C1.48122 3.25 0.25 4.48121 0.25 6V24.4C0.25 25.9188 1.
 
 function SocialLinks() {
     return (
-        <div class="social-links">
+        <div className="social-links">
             <a href="https://github.com/clasei" target="_blank" rel="noopener noreferrer">
                 <Icon path={githubPath} fillColor="white" /> 
             </a> 
