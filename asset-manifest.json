@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/clara/static/css/main.c058f427.css",
-    "main.js": "/clara/static/js/main.acdfc1e1.js",
+    "main.css": "/clara/static/css/main.911bef8a.css",
+    "main.js": "/clara/static/js/main.47b1dc95.js",
     "static/media/cla-sei-profile.png": "/clara/static/media/cla-sei-profile.e7250c311f384a675b2e.png",
     "static/media/cla-sei-hobbes.png": "/clara/static/media/cla-sei-hobbes.2a7f8778b150564a6d41.png",
     "static/media/do-bees-dream-logo.png": "/clara/static/media/do-bees-dream-logo.27c39679826b2cb186b7.png",
-    "static/media/lego-brick.svg": "/clara/static/media/lego-brick.2919894c67a99a4e5c6216987bdc9084.svg",
+    "static/media/lego-brick.svg": "/clara/static/media/lego-brick.7b0d0640f4fd7f6c27bf2c4cc8ab5119.svg",
     "index.html": "/clara/index.html",
-    "main.c058f427.css.map": "/clara/static/css/main.c058f427.css.map",
-    "main.acdfc1e1.js.map": "/clara/static/js/main.acdfc1e1.js.map"
+    "main.911bef8a.css.map": "/clara/static/css/main.911bef8a.css.map",
+    "main.47b1dc95.js.map": "/clara/static/js/main.47b1dc95.js.map"
   },
   "entrypoints": [
-    "static/css/main.c058f427.css",
-    "static/js/main.acdfc1e1.js"
+    "static/css/main.911bef8a.css",
+    "static/js/main.47b1dc95.js"
   ]
 }
