@@ -3,7 +3,7 @@
     gap: 3rem;
     justify-content: center;
     height: auto;
-    margin-top: 0.1rem;
+    margin-top: 1rem;
     margin-bottom: 2.5rem;
 }
 
@@ -19,7 +19,7 @@
 
 @media screen and (max-width: 768px) {
     .social-links {
-        gap: 2rem;
-        margin-top: 0.1rem;
+        gap: 2.5rem;
+        margin-top: 0.5rem;
     }
 }
