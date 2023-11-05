@@ -3,7 +3,7 @@
 
 body {
   font-family: 'Robot', 'Arial', sans-serif;
-  background-color: #000;
+  background: #000;
   color: #fff;
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@ body {
   justify-content: center;
   flex-wrap: wrap;
   overflow-y: auto;
-  height: auto;
+  height: flex;
   box-sizing: border-box; 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
