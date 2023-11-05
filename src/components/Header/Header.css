@@ -42,12 +42,12 @@ p {
     }
 
     .profile-pic {
-        padding-bottom: 0.2rem;
+        padding-bottom: 0.1rem;
     }
     
     h1 {
         font-size: 1.7rem;
-        padding: 0.5rem auto;
+        padding-bottom: 0rem;
     }
 
     p {
