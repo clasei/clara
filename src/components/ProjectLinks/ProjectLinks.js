@@ -32,6 +32,11 @@ const projects = [
         link: "https://clasei.github.io/quantum-cookies/",
         image: projectLogo
     },
+    {
+        name: "matterAnimation",
+        link: "https://clasei.github.io/matter-animation/",
+        image: projectLogo
+    },
     
 ];
 
