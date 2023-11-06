@@ -18,22 +18,22 @@ const projects = [
         image: Hobbes 
     },
     {
-        name: ":: twinkleCircle",
+        name: "twinkleCircle",
         link: "https://clasei.github.io/twinkle-circle/",
         image: projectLogo
     },
     {
-        name: ":: spaceTime",
+        name: "spaceTime",
         link: "https://clasei.github.io/space-time/",
         image: projectLogo
     },
     {
-        name: ":: quantumCookies",
+        name: "quantumCookies",
         link: "https://clasei.github.io/quantum-cookies/",
         image: projectLogo
     },
     {
-        name: ":: matterAnimation",
+        name: "matterAnimation",
         link: "https://clasei.github.io/matter-animation/",
         image: projectLogo
     },
