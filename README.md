@@ -1,3 +1,2 @@
-### This is a pragmatic bio-link.
+### This is a [pragmatic bio-link](https://clasei.github.io/clara/).
 
-* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
