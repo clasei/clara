@@ -8,14 +8,14 @@ import Hobbes from '../../assets/images/cla-sei-hobbes.png';
 
 const projects = [
     {
-        name: "Do Bees Dream → web",
-        link: "https://dobeesdream.com",
-        image: dbdLogo 
-    },
-    {
         name: "GitHub → code",
         link: "https://github.com/clasei",
         image: Hobbes 
+    },
+    {
+        name: "Do Bees Dream → web",
+        link: "https://dobeesdream.com",
+        image: dbdLogo 
     },
     {
         name: "Galactic Hitchhiker",
