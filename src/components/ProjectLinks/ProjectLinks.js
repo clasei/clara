@@ -18,6 +18,11 @@ const projects = [
         image: Hobbes 
     },
     {
+        name: "Galactic Hitchhiker",
+        link: "https://clasei.github.io/galactic-hitchhiker/",
+        image: projectLogo
+    },
+    {
         name: "twinkleCircle",
         link: "https://clasei.github.io/twinkle-circle/",
         image: projectLogo
