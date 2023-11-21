@@ -18,7 +18,7 @@ const projects = [
         image: dbdLogo 
     },
     {
-        name: "Galactic Hitchhiker",
+        name: "galacticHitchhiker",
         link: "https://clasei.github.io/galactic-hitchhiker/",
         image: projectLogo
     },
