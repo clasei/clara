@@ -8,41 +8,40 @@ import Hobbes from '../../assets/images/cla-sei-hobbes.png';
 
 const projects = [
     {
-        name: "GitHub → code",
+        name: "GitHub → code + README",
         link: "https://github.com/clasei",
         image: Hobbes 
+    },
+    {
+        name: "galacticHitchhiker | Angular",
+        link: "https://clasei.github.io/galactic-hitchhiker/",
+        image: projectLogo
+    },
+    {
+        name: "twinkleCircle | React",
+        link: "https://clasei.github.io/twinkle-circle/",
+        image: projectLogo
+    },
+    {
+        name: "spaceTime | JS",
+        link: "https://clasei.github.io/space-time/",
+        image: projectLogo
+    },
+    {
+        name: "quantumCookies | Angular",
+        link: "https://clasei.github.io/quantum-cookies/",
+        image: projectLogo
+    },
+    {
+        name: "matterAnimation | JS",
+        link: "https://clasei.github.io/matter-animation/",
+        image: projectLogo
     },
     {
         name: "Do Bees Dream → web",
         link: "https://dobeesdream.com",
         image: dbdLogo 
-    },
-    {
-        name: "galacticHitchhiker",
-        link: "https://clasei.github.io/galactic-hitchhiker/",
-        image: projectLogo
-    },
-    {
-        name: "twinkleCircle",
-        link: "https://clasei.github.io/twinkle-circle/",
-        image: projectLogo
-    },
-    {
-        name: "spaceTime",
-        link: "https://clasei.github.io/space-time/",
-        image: projectLogo
-    },
-    {
-        name: "quantumCookies",
-        link: "https://clasei.github.io/quantum-cookies/",
-        image: projectLogo
-    },
-    {
-        name: "matterAnimation",
-        link: "https://clasei.github.io/matter-animation/",
-        image: projectLogo
-    },
-    
+    },    
 ];
 
 const ProjectLinks = () => {
