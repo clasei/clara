@@ -10,7 +10,7 @@
     border: 1px solid #ccc;
     color: whitesmoke;;
     margin: 1rem auto;
-    padding-left: 10px;
+    padding: 3px;
     border-radius: 10px;
     transition: all 0.3s;
     cursor: pointer;
