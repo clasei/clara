@@ -13,18 +13,13 @@ const projects = [
         image: Hobbes 
     },
     {
-        name: "galacticHitchhiker | Angular",
-        link: "https://clasei.github.io/galactic-hitchhiker/",
-        image: projectLogo
-    },
-    {
         name: "twinkleCircle | React",
         link: "https://clasei.github.io/twinkle-circle/",
         image: projectLogo
     },
     {
-        name: "spaceTime | JS",
-        link: "https://clasei.github.io/space-time/",
+        name: "galacticHitchhiker | Angular",
+        link: "https://clasei.github.io/galactic-hitchhiker/",
         image: projectLogo
     },
     {
@@ -33,12 +28,17 @@ const projects = [
         image: projectLogo
     },
     {
+        name: "spaceTime | JS",
+        link: "https://clasei.github.io/space-time/",
+        image: projectLogo
+    },
+    {
         name: "matterAnimation | JS",
         link: "https://clasei.github.io/matter-animation/",
         image: projectLogo
     },
     {
-        name: "Do Bees Dream → web",
+        name: "Do Bees Dream → web design",
         link: "https://dobeesdream.com",
         image: dbdLogo 
     },    
