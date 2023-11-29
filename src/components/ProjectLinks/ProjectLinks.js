@@ -18,7 +18,7 @@ const projects = [
         image: projectLogo
     },
     {
-        name: "neutronLink | React + Firebase",
+        name: "neutronLink | React + serverless back-end",
         link: "https://neutron-link-0.web.app/",
         image: projectLogo
     },
