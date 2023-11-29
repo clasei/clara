@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/clara/static/css/main.24f41786.css",
-    "main.js": "/clara/static/js/main.a7b9699e.js",
+    "main.js": "/clara/static/js/main.874254bc.js",
     "static/media/cla-sei-profile.png": "/clara/static/media/cla-sei-profile.e7250c311f384a675b2e.png",
     "static/media/cla-sei-hobbes.png": "/clara/static/media/cla-sei-hobbes.2a7f8778b150564a6d41.png",
     "static/media/do-bees-dream-logo.png": "/clara/static/media/do-bees-dream-logo.27c39679826b2cb186b7.png",
     "static/media/lego-brick.svg": "/clara/static/media/lego-brick.7b0d0640f4fd7f6c27bf2c4cc8ab5119.svg",
     "index.html": "/clara/index.html",
     "main.24f41786.css.map": "/clara/static/css/main.24f41786.css.map",
-    "main.a7b9699e.js.map": "/clara/static/js/main.a7b9699e.js.map"
+    "main.874254bc.js.map": "/clara/static/js/main.874254bc.js.map"
   },
   "entrypoints": [
     "static/css/main.24f41786.css",
-    "static/js/main.a7b9699e.js"
+    "static/js/main.874254bc.js"
   ]
 }
