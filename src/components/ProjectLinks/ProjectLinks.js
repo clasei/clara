@@ -13,6 +13,11 @@ const projects = [
         image: Hobbes 
     },
     {
+        name: "neutronLink | React + Firebase",
+        link: "https://neutron-link-0.web.app/",
+        image: projectLogo
+    },
+    {
         name: "twinkleCircle | React",
         link: "https://clasei.github.io/twinkle-circle/",
         image: projectLogo
@@ -38,7 +43,7 @@ const projects = [
         image: projectLogo
     },
     {
-        name: "Do Bees Dream → web design",
+        name: "Do Bees Dream → web",
         link: "https://dobeesdream.com",
         image: dbdLogo 
     },    
