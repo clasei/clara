@@ -13,13 +13,13 @@ const projects = [
         image: Hobbes 
     },
     {
-        name: "twinkleCircle | React",
-        link: "https://clasei.github.io/twinkle-circle/",
+        name: "neutronLink | React + serverless back-end",
+        link: "https://neutron-link-0.web.app/",
         image: projectLogo
     },
     {
-        name: "neutronLink | React + serverless back-end",
-        link: "https://neutron-link-0.web.app/",
+        name: "twinkleCircle | React",
+        link: "https://clasei.github.io/twinkle-circle/",
         image: projectLogo
     },
     {
