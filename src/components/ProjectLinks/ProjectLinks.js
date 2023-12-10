@@ -43,7 +43,7 @@ const projects = [
         image: projectLogo
     },
     {
-        name: "Do Bees Dream → web",
+        name: "Do Bees Dream → freelance",
         link: "https://dobeesdream.com",
         image: dbdLogo 
     },    
