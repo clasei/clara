@@ -3,16 +3,11 @@
     gap: 3rem;
     justify-content: center;
     height: auto;
-    margin-top: 1rem;
+    margin-top: 2rem;
     margin-bottom: 4rem;
 }
 
-.icon-svg:active {
-    transform: scale(1.2);
-    transition: transform 0.4s ease-in-out;
-}
-
-.icon-svg:hover {
+.icon-svg:active, .icon-svg:hover {
     transform: scale(1.2);
     transition: transform 0.4s ease-in-out;
 }
