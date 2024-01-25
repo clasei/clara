@@ -20,14 +20,10 @@
     line-height: 20px;
 }
 
-.project-card:hover {
+.project-card:hover, .project-card:active {
     border-color: #fce149;
+    color: #fce149;
     box-shadow: 2px 2px 15px #fce14975;
-    transform: scale(1.1);
-    transition: transform 0.3s ease-in-out;
-}
-
-.project-card:active {
     transform: scale(1.1);
     transition: transform 0.4s ease-in-out;
 }
