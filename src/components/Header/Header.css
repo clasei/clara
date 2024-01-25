@@ -11,16 +11,21 @@
 }
 
 .profile-pic {
-    width: 100px;
-    height: 100px;
+    width: 125px;
+    height: 125px;
     border-radius: 50%;
-    padding-bottom: 0.3rem;
+    padding-bottom: 0.5rem;
+}
+
+.profile-pic:hover {
+    transform: scale(1.1);
+    transition: transform 0.4s ease-in-out;
 }
 
 h1 {
     font-family: 'Roboto';
     font-size: 2rem;
-    letter-spacing: 4px;
+    letter-spacing: 0.3rem;
     font-weight: 400;
     padding-bottom: 0.25rem;
 }
@@ -28,7 +33,7 @@ h1 {
 h2 {
     font-family: 'Roboto';
     font-weight: 300;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     color: #fce149;
     letter-spacing: 0.2rem;
     line-height: 25px;
@@ -43,14 +48,18 @@ h2 {
     }
 
     .profile-pic {
+        width: 100px;
+        height: 100px;
         padding-bottom: 0.25rem;
     }
     
     h1 {
         font-size: 1.7rem;
+        letter-spacing: 0.2rem;
     }
 
     h2 {
+        letter-spacing: 0.1rem;
         line-height: 1.5rem;
         margin-top: 0.1rem;
         margin-bottom: 0.1rem;
