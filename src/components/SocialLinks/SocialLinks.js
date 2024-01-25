@@ -12,12 +12,12 @@ function SocialLinks() {
         <div className="social-links">
             <a href="https://github.com/clasei" target="_blank" rel="noopener noreferrer">
                 <Icon path={githubPath} fillColor="whitesmoke" /> 
-            </a> 
-            <a href="https://twitter.com/claraseijo" target="_blank" rel="noopener noreferrer">  
-                <Icon path={xPath} fillColor="whitesmoke" />
-            </a> 
+            </a>
             <a href="https://linkedin.com/in/claraseijo" target="_blank" rel="noopener noreferrer">      
                 <Icon path={linkedinPath} fillColor="whitesmoke" />
+            </a>
+            <a href="https://twitter.com/claraseijo" target="_blank" rel="noopener noreferrer">  
+                <Icon path={xPath} fillColor="whitesmoke" />
             </a> 
             <a href="mailto:clara@dobeesdream.com">
                 <Icon path={emailPath} fillColor="whitesmoke" /></a>
