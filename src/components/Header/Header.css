@@ -20,15 +20,16 @@
 h1 {
     font-family: 'Roboto';
     font-size: 2rem;
-    letter-spacing: 5px;
+    letter-spacing: 4px;
     font-weight: 400;
     padding-bottom: 0.25rem;
 }
 
-p {
+h2 {
     font-family: 'Roboto';
     font-weight: 300;
     font-size: 1.25rem;
+    color: #fce149;
     letter-spacing: 0.2rem;
     line-height: 25px;
     margin-top: 0.1rem;
@@ -49,7 +50,7 @@ p {
         font-size: 1.7rem;
     }
 
-    p {
+    h2 {
         line-height: 1.5rem;
         margin-top: 0.1rem;
         margin-bottom: 0.1rem;
