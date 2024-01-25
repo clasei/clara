@@ -44,7 +44,7 @@
     width: 45px;
     height: 45px;
     border-radius: 50%;
-    margin-right: 20px;
+    margin-right: 15px;
     margin-left: 15px;
     background-color: #000;
     flex-shrink: 0;
@@ -70,7 +70,7 @@
     .project-logo {
         width: 45px;
         height: 45px;
-        margin-right: 15px;
+        margin-right: 10px;
         margin-left: 10px;
     }
 }
