@@ -1,7 +1,9 @@
 #footer {
     font-family: 'Roboto Mono', monospace;
+    font-weight: 600;
     color: rgba(194, 194, 194, 0.902);
     font-size: 0.8rem;
+    line-height: 1rem;
     background-color: rgba(57, 57, 57, 0.34);
     box-shadow: 0 3px 10px rgba(95, 95, 95, 0.5);
     padding: 10px 30px;
@@ -43,7 +45,6 @@ footer span {
 @media screen and (max-width: 900px) {
     #footer {
         font-size: 0.75rem;
-        line-height: 15px;
         width: 95%;
     }
 }

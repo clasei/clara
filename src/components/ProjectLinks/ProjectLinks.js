@@ -8,6 +8,11 @@ import Hobbes from '../../assets/images/cla-sei-hobbes.png';
 
 const projects = [
     {
+        name: "Do Bees Dream → web",
+        link: "https://dobeesdream.com",
+        image: dbdLogo 
+    },   
+    {
         name: "GitHub → code + README",
         link: "https://github.com/clasei",
         image: Hobbes 
@@ -41,12 +46,7 @@ const projects = [
         name: "matterAnimation | JS",
         link: "https://clasei.github.io/matter-animation/",
         image: projectLogo
-    },
-    {
-        name: "Do Bees Dream → freelance",
-        link: "https://dobeesdream.com",
-        image: dbdLogo 
-    },    
+    }, 
 ];
 
 const ProjectLinks = () => {
