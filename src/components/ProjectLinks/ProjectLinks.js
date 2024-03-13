@@ -19,27 +19,32 @@ const projects = [
     },
     {
         name: "twinkleCircle | React",
-        link: "https://clasei.github.io/twinkle-circle/",
+        link: "https://clasei.github.io/twinkle-circle",
+        image: projectLogo
+    },
+    {
+        name: "sparkForm | React + Firebase",
+        link: "https://spark-form-7.web.app",
         image: projectLogo
     },
     {
         name: "neutronLink | React + Firebase",
-        link: "https://neutron-link-0.web.app/",
+        link: "https://neutron-link-0.web.app",
         image: projectLogo
     },
     {
         name: "galacticHitchhiker | Angular",
-        link: "https://clasei.github.io/galactic-hitchhiker/",
+        link: "https://clasei.github.io/galactic-hitchhiker",
         image: projectLogo
     },
     {
         name: "quantumCookies | Angular",
-        link: "https://clasei.github.io/quantum-cookies/",
+        link: "https://clasei.github.io/quantum-cookies",
         image: projectLogo
     },
     {
         name: "spaceTime | JS",
-        link: "https://clasei.github.io/space-time/",
+        link: "https://clasei.github.io/space-time",
         image: projectLogo
     },
     {
