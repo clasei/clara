@@ -6,12 +6,7 @@ import dbdLogo from '../../assets/logos/do-bees-dream-logo.png';
 import Hobbes from '../../assets/images/cla-sei-hobbes.png';
 
 
-const projects = [
-    {
-        name: "Do Bees Dream → web",
-        link: "https://dobeesdream.com",
-        image: dbdLogo 
-    },   
+const projects = [  
     {
         name: "GitHub → code + README",
         link: "https://github.com/clasei",
@@ -51,6 +46,11 @@ const projects = [
         name: "matterAnimation | JS",
         link: "https://clasei.github.io/matter-animation/",
         image: projectLogo
+    },
+    {
+        name: "Do Bees Dream → web",
+        link: "https://dobeesdream.com",
+        image: dbdLogo 
     }, 
 ];
 
