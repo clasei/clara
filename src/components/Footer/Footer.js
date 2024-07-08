@@ -10,7 +10,7 @@ const Footer = () => {
             <span id="currentYear">{ currentYear } </span>
             × built by <a href="https://github.com/clasei" target="_blank" rel="noopener noreferrer">→ clara</a>
             <span id="rocketIcon"> 🚀 </span>
-            pragmatic front-end developer 
+            pragmatic full-stack developer 
         </footer>
     </div>
   );
