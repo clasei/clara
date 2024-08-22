@@ -13,13 +13,13 @@ const projects = [
         image: Hobbes 
     },
     {
-        name: "sparkForm | React + Firebase",
-        link: "https://spark-form-7.web.app",
+        name: "twinkleCircle | React",
+        link: "https://clasei.github.io/twinkle-circle",
         image: projectLogo
     },
     {
-        name: "twinkleCircle | React",
-        link: "https://clasei.github.io/twinkle-circle",
+        name: "sparkForm | React + Firebase",
+        link: "https://spark-form-7.web.app",
         image: projectLogo
     },
     {
